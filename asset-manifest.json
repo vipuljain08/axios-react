@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axios-react/static/css/main.1555e100.chunk.css",
+    "main.js": "/axios-react/static/js/main.8db7a865.chunk.js",
+    "main.js.map": "/axios-react/static/js/main.8db7a865.chunk.js.map",
+    "runtime-main.js": "/axios-react/static/js/runtime-main.064a8717.js",
+    "runtime-main.js.map": "/axios-react/static/js/runtime-main.064a8717.js.map",
+    "static/js/2.420fade2.chunk.js": "/axios-react/static/js/2.420fade2.chunk.js",
+    "static/js/2.420fade2.chunk.js.map": "/axios-react/static/js/2.420fade2.chunk.js.map",
+    "index.html": "/axios-react/index.html",
+    "precache-manifest.3b0efcfcbbba3dc5c2d174bea150cf5f.js": "/axios-react/precache-manifest.3b0efcfcbbba3dc5c2d174bea150cf5f.js",
+    "service-worker.js": "/axios-react/service-worker.js",
+    "static/css/main.1555e100.chunk.css.map": "/axios-react/static/css/main.1555e100.chunk.css.map",
+    "static/js/2.420fade2.chunk.js.LICENSE.txt": "/axios-react/static/js/2.420fade2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064a8717.js",
+    "static/js/2.420fade2.chunk.js",
+    "static/css/main.1555e100.chunk.css",
+    "static/js/main.8db7a865.chunk.js"
+  ]
+}
