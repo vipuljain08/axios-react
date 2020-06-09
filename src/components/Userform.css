@@ -1,0 +1,20 @@
+.Userform form input[type="text"] {
+    font-size: 24px;
+    margin: 40px auto;
+    display: block;
+}
+
+.Userform form input[type="submit"] {
+    font-size: 18px;
+    text-transform: uppercase;
+    border: none;
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 10px 24px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.Userform form input[type="submit"]:hover {
+    background-color: rgb(36, 101, 223);
+}
