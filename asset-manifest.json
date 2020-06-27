@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/axios-react/static/css/main.0006c39b.chunk.css",
+    "main.css": "/axios-react/static/css/main.c4c46ec2.chunk.css",
     "main.js": "/axios-react/static/js/main.8f183ea4.chunk.js",
     "main.js.map": "/axios-react/static/js/main.8f183ea4.chunk.js.map",
     "runtime-main.js": "/axios-react/static/js/runtime-main.064a8717.js",
@@ -8,16 +8,16 @@
     "static/js/2.bf8add4b.chunk.js": "/axios-react/static/js/2.bf8add4b.chunk.js",
     "static/js/2.bf8add4b.chunk.js.map": "/axios-react/static/js/2.bf8add4b.chunk.js.map",
     "index.html": "/axios-react/index.html",
-    "precache-manifest.5f12bba60e5e28df2a1d52a4b7b3de3d.js": "/axios-react/precache-manifest.5f12bba60e5e28df2a1d52a4b7b3de3d.js",
+    "precache-manifest.e3a945dda639a3b70f68edb5da7005aa.js": "/axios-react/precache-manifest.e3a945dda639a3b70f68edb5da7005aa.js",
     "service-worker.js": "/axios-react/service-worker.js",
-    "static/css/main.0006c39b.chunk.css.map": "/axios-react/static/css/main.0006c39b.chunk.css.map",
+    "static/css/main.c4c46ec2.chunk.css.map": "/axios-react/static/css/main.c4c46ec2.chunk.css.map",
     "static/js/2.bf8add4b.chunk.js.LICENSE.txt": "/axios-react/static/js/2.bf8add4b.chunk.js.LICENSE.txt",
     "static/media/pin.svg": "/axios-react/static/media/pin.4b0ff2f3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.064a8717.js",
     "static/js/2.bf8add4b.chunk.js",
-    "static/css/main.0006c39b.chunk.css",
+    "static/css/main.c4c46ec2.chunk.css",
     "static/js/main.8f183ea4.chunk.js"
   ]
 }
