@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24d045e5d1ec3db4c48d8f6dfa93e2ad",
+    "revision": "067364f8ee6d39be02c77ef0bee58a51",
     "url": "/axios-react/index.html"
   },
   {
-    "revision": "2e36094e351b2e94cb91",
-    "url": "/axios-react/static/css/main.c4c46ec2.chunk.css"
+    "revision": "f1e2bc1cc314e2f72e36",
+    "url": "/axios-react/static/css/main.2b2da45d.chunk.css"
   },
   {
     "revision": "5f4f612725d8776a260c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/axios-react/static/js/2.bf8add4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e36094e351b2e94cb91",
+    "revision": "f1e2bc1cc314e2f72e36",
     "url": "/axios-react/static/js/main.8f183ea4.chunk.js"
   },
   {
